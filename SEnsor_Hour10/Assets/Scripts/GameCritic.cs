@@ -1,0 +1,6 @@
+/* 
+ I added a timer so the player knows how long it takes to win.
+ Added variations of the chaos balls 
+ Changed the footstep audio to something that made more sense with water
+ Tried covering up water with terrian around border of the arena 
+*/
