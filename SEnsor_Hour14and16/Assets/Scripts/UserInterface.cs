@@ -1,0 +1,6 @@
+/*
+Changed the background image of the main menu 
+Added Colors to the Buttons
+Made a new game title 
+Created Game Instructions 
+*/
